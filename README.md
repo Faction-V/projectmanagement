@@ -10,6 +10,7 @@ The Project team structure is a new approach to feature development and project 
 - Encourages personal investment/ownership in features
 - Better communciation - Promotes cross-functional collaboration and understanding
 - Faster decision-making and issue resolution
+- Faster delivery
 
 ## Key Principles
 
