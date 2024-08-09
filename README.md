@@ -23,7 +23,7 @@ Lots of the feature work at Capitol has suffered from under planning and lack of
 3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
 4. Personal Investment: By leading a project, team members become personally invested in its success.
 
-## Responsibilities of Project Owners. Order of Opperations:
+# Responsibilities of Project Owners. Order of Opperations:
 
 1. Design / Product Consensus: Comprehend agreed-upon designs and clarify all feature aspects with product/design teams before kickoff.
 2. Kickoff Meeting: Organize and lead a kickoff meeting, inviting relevant engineering staff.
