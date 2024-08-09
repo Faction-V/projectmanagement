@@ -17,7 +17,7 @@ individual contributor (IC) roles.
 3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
 4. Personal Investment: By leading a project, team members become personally invested in its success.
 
-## Responsibilities of Project Owners
+## Responsibilities of Project Owners. Order of Opperations:
 
 1. Design Understanding: Comprehend agreed-upon designs and clarify all feature aspects with product/design teams.
 2. Kickoff Meeting: Organize and lead a kickoff meeting, inviting relevant engineering staff.
@@ -33,32 +33,7 @@ individual contributor (IC) roles.
 - Encourages personal investment in feature success
 - Promotes cross-functional collaboration and understanding
 - Potentially leads to faster decision-making and issue resolution
-- Provides senior ICs with a broader perspective on the development process
-
-## Potential Challenges and Mitigations
-
-1. Workload Balance: Ensure Project Owner responsibilities don't negatively impact primary IC roles.
-   Mitigation: Regular workload reviews and adjustments as needed.
-
-2. Consistent Practices: Maintain consistency in project management across different Project Owners.
-   Mitigation: Establish standardized tools, processes, and best practices.
-
-3. Knowledge Transfer: Ensure learnings and insights are shared across the team.
-   Mitigation: Implement a knowledge sharing system and regular retrospectives.
-
-4. Junior Team Member Development: Provide growth opportunities for team members with less than 6 months tenure.
-   Mitigation: Create a mentorship program where Project Owners guide junior team members.
-
-## Implementation Strategy
-
-1. Pilot Phase: Start with a small number of projects to test and refine the approach.
-2. Training: Provide project management training to all eligible team members.
-3. Support Structure: Establish a support system for Project Owners to seek advice when needed.
-4. Regular Review: Conduct periodic reviews of the scheme, adjusting based on feedback and outcomes.
-5. Transition Planning: Develop clear plans for transitioning team members into Project Owner roles as they reach eligibility.
 
 ## Conclusion
 
-The Project Owner Scheme aims to leverage the expertise of our senior team members while fostering a culture of shared responsibility and cross-functional collaboration. By rotating 
-project leadership among our experienced ICs, we expect to see increased engagement, more efficient feature delivery, and the development of well-rounded engineering leaders within 
-CapitolAI.
+The Project Owner Scheme aims to leverage the expertise of our senior team members while fostering a culture of shared responsibility and cross-functional collaboration. By rotating project leadership among our experienced ICs, we expect to see increased engagement, more efficient feature delivery, and the development of well-rounded engineering leaders within CapitolAI.
