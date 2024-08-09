@@ -1,8 +1,8 @@
-# CapitolAI Project Leads
+# CapitolAI Project teams
 
 ## Overview
 
-The Project Leads team structure is a new approach to feature development and project management at CapitolAI. This system assigns responsibility for specific features to senior team members, who then lead cross-functional teams to build these features. The goal is to enhance ownership, accountability, and cross-functional collaboration while maintaining dev roles.
+The Project team structure is a new approach to feature development and project management at CapitolAI. This system assigns responsibility for specific features to senior team members, who then lead cross-functional teams to build these features. E.g. Projects will be lead by Masha, who then is responsible for project management of that project including coordinating communications, defining deadlines, creating and tracking tickets in github, maintaining project board, and reporting on progress. The goal is to enhance ownership, accountability, and cross-functional collaboration while maintaining dev roles.
 
 ## Benefits
 
