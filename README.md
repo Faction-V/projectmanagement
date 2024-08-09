@@ -4,6 +4,13 @@
 
 The Project Leads team structure is a new approach to feature development and project management at CapitolAI. This system assigns responsibility for specific features to senior team members, who then lead cross-functional teams to build these features. The goal is to enhance ownership, accountability, and cross-functional collaboration while maintaining dev roles.
 
+## Benefits
+
+- Better planning
+- Encourages personal investment/ownership in features
+- Better communciation - Promotes cross-functional collaboration and understanding
+- Faster decision-making and issue resolution
+
 ## Key Principles
 
 1. Rotating Leadership: Team members take turns leading projects while maintaining their IC roles.
@@ -21,13 +28,5 @@ The Project Leads team structure is a new approach to feature development and pr
 6. Reporting: Provide weekly project status reports.
 7. Team Coordination: Organize project standups at least every other day.
 
-## Benefits
 
-- Develops project management skills across the senior team
-- Encourages personal investment in feature success
-- Promotes cross-functional collaboration and understanding
-- Potentially leads to faster decision-making and issue resolution
 
-## Conclusion
-
-The Project Owner Scheme aims to leverage the expertise of our senior team members while fostering a culture of shared responsibility and cross-functional collaboration. By rotating project leadership among our experienced ICs, we expect to see increased engagement, more efficient feature delivery, and the development of well-rounded engineering leaders within CapitolAI.
