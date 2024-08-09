@@ -32,5 +32,6 @@ Lots of the feature work at Capitol has suffered from under planning and lack of
 2. Cross-Functional Collaboration: Project Owners build and lead teams across different specialties (frontend, backend, data).
 3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
 4. Personal Investment: By leading a project, team members become personally invested in its success.
+5. Goal is to have 3/4 overall capitol team on feature work and 1/4 team supporting prod on ongoing basis.
 
 
