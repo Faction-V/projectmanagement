@@ -4,6 +4,10 @@
 
 The Project team structure is a new approach to feature development and project management at CapitolAI. The idea is to assign responsibility for named major feature/features (E.g.projects, tweetstorms) to a senior team member, who then leads a cross-functional team to build this big feature. (E.g. Projects will be lead by Masha, who then is responsible for project management of that project including coordinating communications, defining deadlines, creating and tracking tickets in github, maintaining project board, and reporting on progress.) The goal is to enable better planning, faster speed, more accountability, and cross-functional collaboration while maintaining dev roles.
 
+## Why
+
+Lots of the feature work at Capitol has suffered from under planning and lack of communication, individual teams have worked on their part of features but deadlines have not always aligned and there is often a lack of understanding of who is doing what and when and what is required as far as interfaces between fe and backend. E.g. we kicked off tweetstorms a week before we are trying to deliver it. Under this plan we would assign responsibility and kickoff the feature even if we don't start dev work immediately, as close to having the feature locked in from a design / product perspective as possible.
+
 ## Benefits
 
 - Better planning
