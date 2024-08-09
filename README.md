@@ -16,13 +16,6 @@ Lots of the feature work at Capitol has suffered from under planning and lack of
 - Faster decision-making and issue resolution
 - Faster delivery
 
-## Key Principles
-
-1. Rotating Leadership: Team members take turns leading projects while maintaining their IC roles.
-2. Cross-Functional Collaboration: Project Owners build and lead teams across different specialties (frontend, backend, data).
-3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
-4. Personal Investment: By leading a project, team members become personally invested in its success.
-
 # Responsibilities of Project Owners. Order of Opperations:
 
 1. Design / Product Consensus: Comprehend agreed-upon designs and clarify all feature aspects with product/design teams before kickoff.
@@ -33,5 +26,11 @@ Lots of the feature work at Capitol has suffered from under planning and lack of
 6. Reporting: Provide weekly project status reports.
 7. Team Coordination: Organize project standups at least every other day.
 
+## Key Principles
+
+1. Rotating Leadership: Team members take turns leading projects while maintaining their IC roles.
+2. Cross-Functional Collaboration: Project Owners build and lead teams across different specialties (frontend, backend, data).
+3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
+4. Personal Investment: By leading a project, team members become personally invested in its success.
 
 
