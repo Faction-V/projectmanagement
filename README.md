@@ -1,19 +1,13 @@
-# CapitolAI Project Owner Scheme
+# CapitolAI Project Leads
 
 ## Overview
 
-The Project Owner Scheme is a new approach to feature development and project management at CapitolAI. This system assigns responsibility for specific features to senior team 
-members, who then lead cross-functional teams to build these features. The goal is to enhance ownership, accountability, and cross-functional collaboration while maintaining 
-individual contributor (IC) roles.
-
-## Eligibility
-
-- Only CapitolAI team members with at least 6 months of tenure are eligible to be Project Owners.
+The Project Leads team structure is a new approach to feature development and project management at CapitolAI. This system assigns responsibility for specific features to senior team members, who then lead cross-functional teams to build these features. The goal is to enhance ownership, accountability, and cross-functional collaboration while maintaining dev roles.
 
 ## Key Principles
 
 1. Rotating Leadership: Team members take turns leading projects while maintaining their IC roles.
-2. Cross-Functional Collaboration: Project Owners build and lead teams across different specialties (frontend, backend, data, etc.).
+2. Cross-Functional Collaboration: Project Owners build and lead teams across different specialties (frontend, backend, data).
 3. Accountability: Project Owners are responsible for feature delivery within set deadlines.
 4. Personal Investment: By leading a project, team members become personally invested in its success.
 
