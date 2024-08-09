@@ -20,7 +20,7 @@ The Project Leads team structure is a new approach to feature development and pr
 
 ## Responsibilities of Project Owners. Order of Opperations:
 
-1. Design Understanding: Comprehend agreed-upon designs and clarify all feature aspects with product/design teams.
+1. Design / Product Consensus: Comprehend agreed-upon designs and clarify all feature aspects with product/design teams before kickoff.
 2. Kickoff Meeting: Organize and lead a kickoff meeting, inviting relevant engineering staff.
 3. Team Formation: Collaborate with team leads (frontend, backend, data) to select team members for the feature.
 4. Project Planning: Develop a comprehensive plan including interfaces, contracts, roadmap, and deadlines.
